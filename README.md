@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -43,9 +42,8 @@
     /* 1 block */
     .hero {
       position: relative;
-      background: url('(https://vk.com/away.php?to=https%3A%2F%2Fsun9-70.userapi.com%2Fs%2Fv1%2Fig2%2FscrxbajPvoexCaFWXSx0KHECQM8XEAwx_kiOXZ9cYKBhVZVJKNMH64mO566B5p7-T_zYOhuKgugOdaXt_zGxSblc.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3DRVLVMs1F_qFgEE4R8OtfxN-QrhsGZAlULiR8qOGeBrQ%26cs%3D1600x0&utf=1)') center/cover no-repeat;
-      color: white;
-    }
+      background: url('https://vk.com/away.php?to=https%3A%2F%2Fsun9-39.userapi.com%2Fs%2Fv1%2Fig2%2F7Z1uaBwNBCQ7WtjMt9vriTJbjQFEOIP-SDWu7s7qftnWk1NhlfTPS-FszPgoGgMYSIsvSKHeUbP2CEVkujuEtXB6.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3Dh3LnsgLuCPFP2nIkT4zHF8EPsv19ikBM39-inDOoa4Y%26cs%3D640x0&utf=1') center/cover fixed;
+}
 
     .hero::after {
       content: '';
@@ -153,7 +151,7 @@
     <h2>20 августа 2026</h2>
     <p>📍 Белгород</p>
     <div class="countdown" id="countdown"></div>
-    <img src="(https://vk.com/away.php?to=https%3A%2F%2Fsun9-39.userapi.com%2Fs%2Fv1%2Fig2%2F7Z1uaBwNBCQ7WtjMt9vriTJbjQFEOIP-SDWu7s7qftnWk1NhlfTPS-FszPgoGgMYSIsvSKHeUbP2CEVkujuEtXB6.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3Dh3LnsgLuCPFP2nIkT4zHF8EPsv19ikBM39-inDOoa4Y%26cs%3D640x0&utf=1)" style="width:100%; margin-top:20px; border-radius:10px;" />
+    <img src="https://vk.com/away.php?to=https%3A%2F%2Fsun9-39.userapi.com%2Fs%2Fv1%2Fig2%2F7Z1uaBwNBCQ7WtjMt9vriTJbjQFEOIP-SDWu7s7qftnWk1NhlfTPS-FszPgoGgMYSIsvSKHeUbP2CEVkujuEtXB6.jpg%3Fquality%3D95%26as%3D32x48%2C48x72%2C72x108%2C108x162%2C160x240%2C240x360%2C360x540%2C480x720%2C540x810%2C640x960%2C720x1080%2C1080x1620%2C1280x1920%2C1440x2160%2C1600x2400%26from%3Dbu%26u%3Dh3LnsgLuCPFP2nIkT4zHF8EPsv19ikBM39-inDOoa4Y%26cs%3D640x0&utf=1" style="width:100%; margin-top:20px; border-radius:10px;" />
   </div>
 </section>
 
